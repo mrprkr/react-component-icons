@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mrprkr/reacticons.git"
+    "url": "git+https://github.com/mrprkr/react-component-icons.git"
   },
   "keywords": [
     "icons",
@@ -30,9 +30,9 @@
   "author": "@mrprkr",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mrprkr/reacticons/issues"
+    "url": "https://github.com/mrprkr/react-component-icons/issues"
   },
-  "homepage": "https://github.com/mrprkr/reacticons#readme",
+  "homepage": "https://github.com/mrprkr/react-component-icons#readme",
   "devDependencies": {
     "@types/jest": "^26.0.20",
     "@types/react": "^17.0.0",
