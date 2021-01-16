@@ -1,5 +1,6 @@
 // import { Greeter } from '../index';
+import { Example } from '..'
 
-// test('My Greeter', () => {
-//   expect(Greeter('Carl')).toBe('Hello Carl');
-// });
+test('Example icon exists', () => {
+  expect(Example);
+});

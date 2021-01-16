@@ -1,1 +1,7 @@
-export { default } from './IconComponent'
+import SVGToComponent from './helpers/SVGToComponent'
+
+export * from './icons'
+
+export { 
+  SVGToComponent,
+}
