@@ -1,7 +1,7 @@
-import Example from './example'
-import Settings from './settings'
+import ExampleIcon from './example'
+import SettingsIcon from './settings'
 
 export {
-  Settings,
-  Example
+  SettingsIcon,
+  ExampleIcon,
 }

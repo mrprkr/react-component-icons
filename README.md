@@ -23,12 +23,12 @@ Coming soon:
 ## Usage
 Import the icons you need
 ```js
-import { Example } from 'react-component-icons'
+import { IconSettings } from 'react-component-icons'
 ```
 
 Add to react components as needed:
 ```js
-<Example size={24} color='#999999' />
+<IconSettings size={24} color='#999999' />
 ```
 
 Additional props:

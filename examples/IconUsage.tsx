@@ -1,16 +1,16 @@
 import React from 'react'
 
-import { Example } from '../src'
+import { ExampleIcon } from '../src'
 
 const ExampleSize = () => (
   <div>
-    <Example size={36} />
+    <ExampleIcon size={36} />
   </div>
 )
 
 const ExampleColor = () => (
   <div>
-    <Example color="#aeaeae" />
+    <ExampleIcon color="#aeaeae" />
   </div>
 )
 

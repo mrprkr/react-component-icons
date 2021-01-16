@@ -1,6 +1,6 @@
 // import { Greeter } from '../index';
-import { Example } from '..'
+import { ExampleIcon } from '..'
 
 test('Example icon exists', () => {
-  expect(Example);
+  expect(ExampleIcon);
 });
