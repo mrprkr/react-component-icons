@@ -22,10 +22,14 @@ Coming soon:
 
 ## Usage
 Import the icons you need
-`import { Example } from 'react-component-icons'`
+```js
+import { Example } from 'react-component-icons'
+```
 
-Add to react components as needed
-`<Example size={} color='#999999' />`
+Add to react components as needed:
+```js
+<Example size={24} color='#999999' />
+```
 
 Additional props:
 - Style: Customise the wrapper
