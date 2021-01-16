@@ -2,9 +2,10 @@
 SVG icons wrapped as react-components for easy styling
 
 Why use component icons?
-- Easily resizable, vector graphics
-- Change the color with prop
+- Easy vector graphics for common UI icons
+- Change the color and size using props
 - ES6 module imports (only import what you need and save load time)
+- Typescript types
 - More accessible with alt tags
 
 Advantages over other libraries:

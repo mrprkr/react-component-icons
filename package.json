@@ -1,6 +1,6 @@
 {
   "name": "react-component-icons",
-  "version": "0.0.1-alpha",
+  "version": "0.0.2-alpha",
   "description": "Easy configurable icons for react projects",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
