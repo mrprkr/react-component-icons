@@ -1,4 +1,4 @@
-# React component icons
+# React Component Icons
 SVG icons wrapped as react-components for easy styling
 
 Why use component icons?
@@ -17,7 +17,7 @@ Coming soon:
 - More icons!
 - Adjust stroke weight with prop
 - Swap line/fill/outline style with prop
-- BYO SVG icons with helper wrapper
+- BYO SVG icons with SvgIcon component
 
 
 ## Usage
@@ -39,3 +39,11 @@ Optional props:
 ## Icons
 All icons are 24x24px by default and are optically scaled
 
+Categories:
+- UI
+- Nature [coming soon]
+- People [coming soon]
+- Science [coming soon]
+- Social [coming soon]
+- Buildings [coming soon]
+- Misc [coming soon]
