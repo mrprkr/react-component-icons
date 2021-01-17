@@ -4,6 +4,7 @@ import { ChevronRight, ChevronDown } from './chevrons'
 import CrossIcon from './cross'
 import FilterIcon from './filter'
 import CompareIcon from './compare'
+import SortIcon from './sort'
 // import ExportIcon from './export'
 
 export {
@@ -14,4 +15,5 @@ export {
   CrossIcon,
   FilterIcon,
   CompareIcon,
+  SortIcon,
 }
