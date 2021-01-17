@@ -1,7 +1,7 @@
-import SVGToComponent from './helpers/SVGToComponent'
+import SvgIcon from './helpers/SvgIcon'
 
 export * from './icons'
 
 export { 
-  SVGToComponent,
+  SvgIcon,
 }

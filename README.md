@@ -31,6 +31,11 @@ Add to react components as needed:
 <IconSettings size={24} color='#999999' />
 ```
 
-Additional props:
-- Style: Customise the wrapper
-- Alt: Provide your own alt-tag
+Optional props:
+- `style`: customise the svg style
+- `containerStyle`: customise the style of the wrapping container
+- `alt`: Provide your own alt-tag for the icon
+
+## Icons
+All icons are 24x24px by default and are optically scaled
+

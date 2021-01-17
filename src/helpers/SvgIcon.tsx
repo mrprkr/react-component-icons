@@ -4,8 +4,8 @@ import React from 'react'
 // Replace fill props with dynamic color
 
 
-const SVGToComponent = (svg: XMLDocument) => {
-  const icon = svg;
+const SvgIcon = (component: XMLDocument) => {
+  const icon = component;
   return (
     <div>
       <p>TODO transform SVG here</p>
@@ -13,4 +13,4 @@ const SVGToComponent = (svg: XMLDocument) => {
   )
 }
 
-export default SVGToComponent
+export default SvgIcon
