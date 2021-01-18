@@ -9,12 +9,12 @@ Why use component icons?
 - More accessible with alt tags
 
 Advantages over other libraries:
-- Import the whole icon set bloating load times
-- Don't allow easy coloring
-- Seperate line/outline/filled icons
+- Import only the icons you need, saving loading times
+- Easily color and resize using props
+<!-- - Seperate line/outline/filled icons -->
 
 Anti-Pitch:
-- Not as comprehensive
+- Not as comprehensive right now
 - Very much work-in-progress
 - Mixed browser support for native SVG
 
@@ -24,6 +24,7 @@ Coming soon:
 - Adjust stroke weight with prop
 - Swap line/fill/outline style with prop
 - BYO SVG icons with SvgIcon component
+- Improvements to accessibility=
 
 
 ## Usage
