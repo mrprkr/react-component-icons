@@ -1,17 +1,23 @@
 # React Component Icons
-SVG icons wrapped as react-components for easy styling
+SVG icons wrapped as react-components for quick implementation and easy styling
 
 Why use component icons?
 - Easy vector graphics for common UI icons
 - Change the color and size using props
 - ES6 module imports (only import what you need and save load time)
-- Typescript types
+- Written in Typescript
 - More accessible with alt tags
 
 Advantages over other libraries:
 - Import the whole icon set bloating load times
 - Don't allow easy coloring
 - Seperate line/outline/filled icons
+
+Anti-Pitch:
+- Not as comprehensive
+- Very much work-in-progress
+- Mixed browser support for native SVG
+
 
 Coming soon:
 - More icons!
@@ -40,10 +46,22 @@ Optional props:
 All icons are 24x24px by default and are optically scaled
 
 Categories:
-- UI
+- UI [work in progress]
 - Nature [coming soon]
 - People [coming soon]
 - Science [coming soon]
 - Social [coming soon]
 - Buildings [coming soon]
 - Misc [coming soon]
+
+Components:
+- AddIcon
+- ChevronDownIcon
+- ChevronRightIcon
+- ComareIcon
+- CrossIcon
+- FilterIcon
+- SettingsIcon
+- SortIcon
+- ExampleIcon (Used for example)
+- Many more coming soon...
